@@ -1,4 +1,4 @@
-<?php ?>
+<?php include_once('validation.php')?>
 
 <!DOCTYPE html>
 <html lang="en">
