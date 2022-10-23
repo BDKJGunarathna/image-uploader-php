@@ -44,6 +44,7 @@
 </body>
 </html>
 
+<!--functions to preview images -->
 <script type="text/javascript" >
     function addImage(e){
         document.querySelector('#img-upload').click();
